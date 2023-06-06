@@ -1,7 +1,2 @@
 #!/bin/bash
 echo "ALX School"
-*delete echo "ALX" and replace it with echo "ALX School is so cool!"h
-echo "ALX"
-=======
-*delete echo "ALX" and replace it with,echo "ALX School""
->>>>>>> update_script
